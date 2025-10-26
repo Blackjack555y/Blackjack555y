@@ -1,4 +1,5 @@
 # 👋 Hola, soy Blackjack555y  
+<img width="691" height="1050" alt="blackjack555y (1)" src="https://github.com/user-attachments/assets/91ee6b55-4cca-4cb3-859a-766ec3ceb225" />
 
 💻 Desarrollador web.  
 🎯 Me gusta construir aplicaciones funcionales, limpias y bien estructuradas.  
