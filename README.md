@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Blackjack555y  
 
-<!--
-**Blackjack555y/Blackjack555y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador web.  
+🎯 Me gusta construir aplicaciones funcionales, limpias y bien estructuradas.  
+🔥 Interesado en arquitectura backend y diseño de interfaces modernas.  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- **Frontend:** React, Next.js, Tailwind, TypeScript  
+- **Backend:** Node.js, Express, PostgreSQL, Supabase  
+- **Otros:** Docker, Git, Prisma, Jest  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos Destacados
+
+
+## 📈 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blackjack555y&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackjack555y&layout=compact&theme=radical)
+
+## 🌐 Contacto
+📧 blackjack555y@gmail.com  
+💼 [LinkedIn](#) | [Portfolio Web](#)
