@@ -23,9 +23,9 @@
 
 ## 📂 Proyectos Destacados
 
-### 🎰 [Betapp](https://github.com/Blackjack555y/Betapp)
-Aplicación de apuestas con React + TypeScript.  
-🧩 Stack: React, TypeScript, Node.js, PostgreSQL  
+### 🎰 [Torch DB](https://github.com/Blackjack555y/Torch-DB)
+Aplicación de migracion de formatos de bases de datos.  
+🧩 Stack: Python, Html, Css  
 
 ### 🃏 [Balatro Clone](https://github.com/Blackjack555y/Balatro_Balatrez_Esta_Jugando_Balatro)
 Clon en desarrollo del juego Balatro.  
