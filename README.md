@@ -27,9 +27,6 @@
 Aplicación de migracion de formatos de bases de datos.  
 🧩 Stack: Python, Html, Css  
 
-### 🃏 [Balatro Clone](https://github.com/Blackjack555y/Balatro_Balatrez_Esta_Jugando_Balatro)
-Clon en desarrollo del juego Balatro.  
-🧩 Stack: TypeScript, Vite, Canvas  
 
 ---
 
