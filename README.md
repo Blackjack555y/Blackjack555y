@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="<img width="691" height="1050" alt="danielgobr" src="https://github.com/user-attachments/assets/d91b4a5a-60b7-4ac3-a9d3-1cd29578ee60" />" width="600" alt="Banner Blackjack555y" />
+  <img src="https://github.com/user-attachments/assets/d91b4a5a-60b7-4ac3-a9d3-1cd29578ee60" width="600" alt="Banner" />
 </p>
 
-<h1 align="center">👋 Hola, soy Blackjack555y</h1>
+<h1 align="center">👋 Hola, soy Daniel</h1>
 <p align="center">
   💻 Desarrollador web • 🎯 Arquitectura backend • 🎨 Interfaces modernas
 </p>
