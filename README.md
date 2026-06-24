@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/91ee6b55-4cca-4cb3-859a-766ec3ceb225" width="600" alt="Banner Blackjack555y" />
+  <img src="<img width="691" height="1050" alt="danielgobr" src="https://github.com/user-attachments/assets/d91b4a5a-60b7-4ac3-a9d3-1cd29578ee60" />" width="600" alt="Banner Blackjack555y" />
 </p>
 
 <h1 align="center">👋 Hola, soy Blackjack555y</h1>
