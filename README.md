@@ -40,7 +40,7 @@ Aplicación de migracion de formatos de bases de datos.
 ---
 
 ## 🌐 Contacto
-📧 **blackjack555y@gmail.com**  
+📧 **danieldavidgobr@gmail.com**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff)](#)
 
