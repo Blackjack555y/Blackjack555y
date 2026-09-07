@@ -41,8 +41,8 @@ Aplicación de migracion de formatos de bases de datos.
 
 ## 🌐 Contacto
 📧 **danieldavidgobr@gmail.com**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](#) **https://www.linkedin.com/in/daniel-david-g%C3%B3mez-57752b3aa/**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff)](#) **https://blackjack555y.github.io/**
 
 ---
 
